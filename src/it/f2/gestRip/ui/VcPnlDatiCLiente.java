@@ -241,7 +241,7 @@ public class VcPnlDatiCLiente extends JPanel {
 				if(idCliente>0){
 					
 					int confirm = JOptionPane.showConfirmDialog(getParent(),
-							Messages.getString("VcPnlDatiCLiente.msgCustomerExixt"), //$NON-NLS-1$
+							Messages.getString("VcPnlDatiCLiente.msgCustomerExists"), //$NON-NLS-1$
 							Messages.getString("VcPnlDatiCLiente.msgTitleInfo"), JOptionPane.YES_NO_OPTION); //$NON-NLS-1$
 					if (confirm == JOptionPane.OK_OPTION){
 						selezionaCliente(idCliente);
