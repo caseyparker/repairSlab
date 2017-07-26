@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	<name>RepairsLab</name>
-	<comment></comment>
+	<comment>THE OPEN SOURCE SYSTEM TO MANAGE REPAIR SHEET The system RepairsLab allow to manage the entry and exit of equipment repair in a small workshop for repairs or service center. The application allows the printing of a "Repairs sheet" for each device and manage the state of repair.</comment>
 	<projects>
 	</projects>
 	<buildSpec>
